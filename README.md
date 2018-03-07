@@ -1,6 +1,8 @@
 
 # react-native-kin
 
+React Native library responsible for creating a new Stellar account and managing KIN balance and transactions.
+
 ## Getting started
 
 `$ npm install react-native-kin --save`
@@ -33,16 +35,7 @@
   	```
       compile project(':react-native-kin')
   	```
-
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNKin.sln` in `node_modules/react-native-kin/windows/RNKin.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using Kin.RNKin;` to the usings at the top of the file
-  - Add `new RNKinPackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
+    
 ## Usage
 ```javascript
 import RNKin from 'react-native-kin';
