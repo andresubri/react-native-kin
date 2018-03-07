@@ -5,12 +5,13 @@ React Native library responsible for creating a new Stellar account and managing
 
 ### Still in progress, not production ready
 ### TODO
-1.Connecting to a service provider
-2.Creating and retrieving a KIN account
-3.Onboarding
-4.Retrieving Balance
-5.Transfering KIN to another account
-6.Watching Payments
+
+1. Connecting to a service provider
+2. Creating and retrieving a KIN account
+3. Onboarding
+4. Retrieving Balance
+5. Transfering KIN to another account
+6. Watching Payments
 
 ## Getting started
 
