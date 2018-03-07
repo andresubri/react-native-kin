@@ -2,7 +2,7 @@
 {
   "name": "react-native-kin",
   "version": "1.0.0",
-  "description": "",
+  "description": "React Native library responsible for creating a new Stellar account and managing KIN balance and transactions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,10 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Carlos Andrés Guillén",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-
   }
 }
