@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-kin",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "React Native library responsible for creating a new Stellar account and managing KIN balance and transactions.",
   "main": "index.js",
   "scripts": {
